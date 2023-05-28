@@ -1,0 +1,6 @@
+C:\Users\nikol\Desktop\Virtuelizacija\PotrosnjaEnergijeProjekat\Common\bin\Debug\Common.dll
+C:\Users\nikol\Desktop\Virtuelizacija\PotrosnjaEnergijeProjekat\Common\bin\Debug\Common.pdb
+C:\Users\nikol\Desktop\Virtuelizacija\PotrosnjaEnergijeProjekat\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Virtuelizacija\PotrosnjaEnergijeProjekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Virtuelizacija\PotrosnjaEnergijeProjekat\Common\obj\Debug\Common.dll
+C:\Users\nikol\Desktop\Virtuelizacija\PotrosnjaEnergijeProjekat\Common\obj\Debug\Common.pdb

@@ -1,0 +1,11 @@
+C:\Users\nikol\Desktop\Virtuelizacija\PotrosnjaEnergijeProjekat\Service\bin\Debug\Service.exe.config
+C:\Users\nikol\Desktop\Virtuelizacija\PotrosnjaEnergijeProjekat\Service\bin\Debug\Service.exe
+C:\Users\nikol\Desktop\Virtuelizacija\PotrosnjaEnergijeProjekat\Service\bin\Debug\Service.pdb
+C:\Users\nikol\Desktop\Virtuelizacija\PotrosnjaEnergijeProjekat\Service\bin\Debug\Common.dll
+C:\Users\nikol\Desktop\Virtuelizacija\PotrosnjaEnergijeProjekat\Service\bin\Debug\Common.pdb
+C:\Users\nikol\Desktop\Virtuelizacija\PotrosnjaEnergijeProjekat\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Virtuelizacija\PotrosnjaEnergijeProjekat\Service\obj\Debug\Service.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikol\Desktop\Virtuelizacija\PotrosnjaEnergijeProjekat\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Virtuelizacija\PotrosnjaEnergijeProjekat\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\nikol\Desktop\Virtuelizacija\PotrosnjaEnergijeProjekat\Service\obj\Debug\Service.exe
+C:\Users\nikol\Desktop\Virtuelizacija\PotrosnjaEnergijeProjekat\Service\obj\Debug\Service.pdb
